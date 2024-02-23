@@ -1,2 +1,2 @@
 # Standard
-Use Security Standard
+Commonly used information security standards
